@@ -1,0 +1,3 @@
+# Dio-Challenge-Resumo-Lab
+
+No desafio, foi demonstrado como funciona a análise de documentos e o processo de leitura e extração dos dados presentes neles. Esse recurso é amplamente utilizado para processar grandes volumes de documentos que contêm diversas informações, permitindo a extração e o filtro das principais informações com base nas necessidades do usuário. Dessa forma, é possível obter uma compreensão mais aprofundada e direcionada sobre o conteúdo analisado.
